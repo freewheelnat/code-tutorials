@@ -1,0 +1,11 @@
+.searchInput {
+    width: 200px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    margin-bottom: 24px;
+}
+.cancelImg {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+}

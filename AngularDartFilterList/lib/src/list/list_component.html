@@ -1,0 +1,16 @@
+<div *ngIf="items == null" style="text-align: center">
+    Loading items...
+</div>
+
+<div *ngIf="items != null">
+    <ul class="items" *ngIf="items.length > 0">
+        <li *ngFor="let item of items">
+            <div class="item">{{item.display}}</div>
+        </li>
+
+    </ul>
+
+    <div *ngIf="items.length == 0" style="text-align: center">
+        No available items
+    </div>
+</div>

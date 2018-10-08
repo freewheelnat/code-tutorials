@@ -1,0 +1,4 @@
+<div style="text-align: center;">
+    <input #searchInput (keyup)="searchUpdated(searchInput.value)" type="text" class="searchInput" id="searchInput" placeholder="Search through items...">
+    <img src="cancel_icon.png" (click)="searchUpdated('');searchInput.value=''" class="cancelImg" alt="Reset search field"/>
+</div>

@@ -1,0 +1,18 @@
+.items {
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type: none;
+    padding: 0;
+    width: 90%;
+}
+.items li {
+    position: relative;
+    background-color: #F7F7F7;
+    margin: 2px;
+    padding: 16px;
+    border-radius: 0px;
+}
+.item {
+    color: #333333;
+    font-size: 1.2em;
+}
