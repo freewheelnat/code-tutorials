@@ -1,0 +1,22 @@
+{
+  "items": [
+    {"id": 1,
+     "title":"Bananas",
+     "description" : "This is a very long description of bananas. It includes some information which would be useful to know.\\n\\n And a bit more information here."},
+    {"id": 2,
+      "title":"Apples",
+      "description" : "This is a very long description of apples. It includes some information which would be useful to know.\\n\\n And a bit more information here."},
+    {"id": 3,
+      "title":"Breadsticks",
+      "description" : "This is a very long description of breadsticks. It includes some information which would be useful to know.\\n\\nAnd a bit more information here."},
+    {"id": 4,
+      "title":"Cucumber",
+      "description" : "This is a very long description of cucumber. It includes some information which would be useful to know.\\n\\nAnd a bit more information here."},
+    {"id": 5,
+      "title":"Clementines",
+      "description" : "This is a very long description of clementines. It includes some information which would be useful to know.\\n\\nAnd a bit more information here."},
+    {"id": 6,
+      "title":"Cherry tomatoes",
+      "description" : "This is a very long description of cherry tomatoes. It includes some information which would be useful to know.\\n\\nAnd a bit more information here."}
+  ]
+}
